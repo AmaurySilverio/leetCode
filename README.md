@@ -1,4 +1,4 @@
-# 🧠 Must-Know Coding Patterns & LeetCode Problems
+# 🧠 Coding Patterns & Their LeetCode Examples
 
 Welcome to your go-to guide for mastering algorithmic coding patterns! This repository organizes essential problem-solving strategies used in technical interviews, complete with curated LeetCode problems for each pattern.
 
@@ -37,13 +37,14 @@ I recommend:
 
 1. Pick a pattern (e.g. Sliding Window)
 2. Solve 2–3 beginner problems
-3. Revisit them later and solve again without looking
-4. Build muscle memory and recognize the pattern across different problems
+3. Put them in your anki
+4. evisit them later and solve again without looking
+5. Build muscle memory and recognize the pattern across different problems
 
 ---
 
 ## 🛠 How to Use This Repo
 
-1. Clone Repo
-2. CD into leetCode folder
+1. Clone repo
+2. CD into root folder
 3. Start mastering leet code!
